@@ -91,6 +91,8 @@ Please note, that the final decision of accepting the proposed project will rest
 
 ### Contacting us:
 
+You can [create issues on this repository](https://github.com/freeCodeCamp/gsoc/issues/new),or reach the mentors, and our chat room, for any queries about the program and the projects.
+
 #### Mentors and Organization Admins
 
 Here are the list of Organization Admins and Mentors for the year 2018:
@@ -106,4 +108,12 @@ Please feel free to reach us for any queries, we will be glad to have them answe
 
 #### Chat room
 
-We hangout in our [Contributors Chat room](https://gitter.im/FreeCodeCamp/Contributors), drop in and say hi. We would love to assist you there with any queries. Its very active community and someone from the hundreds of Contributors will definitely point you in the right direction.
+We hangout in our [Contributors Chat room](https://gitter.im/FreeCodeCamp/Contributors).
+
+Drop in and say hi.
+
+We would love to assist you there with any queries. It's an very active community. Someone from our Contributors team will be able to guide you.
+
+## License
+
+All the code developed during the program will be made available under the [BSD 3-clause "New" or "Revised" License](LICENSE)
