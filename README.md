@@ -104,8 +104,6 @@ Here are the list of Organization Admins and Mentors for the year 2018:
 | Mrugesh Mohapatra [@raisedadead](https://github.com/raisedadead) | Admin and Mentor | [Gitter](https://gitter.im/raisedadead) | [Twitter](https://twitter.com/raisedadead) | [gsoc+2018@raisedadead.com](mailto:gsoc+2018@raisedadead.com) |
 | Quincy Larson [@QuincyLarson](https://github.com/QuincyLarson) | Admin | [Gitter](https://gitter.im/QuincyLarson) | [Twitter](https://twitter.com/ossia) | - |
 
-Please feel free to reach us for any queries, we will be glad to have them answered.
-
 #### Chat room
 
 We hangout in our [Contributors Chat room](https://gitter.im/FreeCodeCamp/Contributors).
