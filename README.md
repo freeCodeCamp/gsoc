@@ -18,7 +18,7 @@ If you are a student, then we have some challenging, widely-used projects for yo
 
 ### Eligibility for GSoC
 
-The detailed eligibility criteria for Google Summer of Code - 2018 can be accessed on the GSoC Website here:
+The eligibility criteria for Google Summer of Code - 2018 can be accessed on the GSoC Website here:
 
 <https://summerofcode.withgoogle.com/how-it-works/>
 
@@ -30,7 +30,7 @@ We will NOT be able to accommodate applications that do not fulfil the criteria 
 
 ### Timelines
 
-The program is structured to follow a dedicated, timeline. So be sure to checkout and follow the dates for all milestones:
+The program is structured to follow a dedicated timeline. So be sure to checkout and follow the dates for all milestones:
 
 <https://developers.google.com/open-source/gsoc/timeline>
 
@@ -40,7 +40,7 @@ The program is structured to follow a dedicated, timeline. So be sure to checkou
 
    **_Todo: Add the instructions to the 2018 proposal format_**
 
-2. Submitting a proposal.
+2. Submit a proposal.
 
    **_Todo: Add the details of the submission process_**
 
@@ -54,22 +54,20 @@ We are looking for mentors with these skills:
 
 1. Prior experience working on Open Source projects.
 2. Experience in any of these technologies, NodeJS, React, GraphQL.
-3. Having contributed to freeCodeCamp's platform is a strong plus.
+3. Prior contribution to freeCodeCamp's platform is a strong plus.
 
-If you are interested checkout our ideas list, and reach us at the resources listed in the [Contacting us](contacting-us), with links to your work, and we will get back to you.
+If you are interested, checkout our ideas list and reach us at the resources listed in the [contacting us](contacting-us), with links to your work, and we will get back to you.
 
 Please note:
 
 1. We would only be able to select you, after you commit strongly to the program. Please refer to the [timelines](#timelines), for the duration of the program.
-2. Also, this requires participation 4-5 hours of dedicated interaction with per student per week.
+2. Also, you would be required to interact with each student for 4-5 hours per week, to review their progress.
 
 ### Submitting Project Ideas
 
-While, we have a set no of projects, for what we would like students to work on in this year's GSoC, we invite you to submit your own ideas as well.
+We have a limited no. of projects, that we would like students to work on in this year's GSoC. However, we also invite you to submit your own ideas.
 
-Create an issue on the this repository's issue tracker in the below format.
-
-Just be sure to check that this is NOT already something on our list here:
+Create an issue on the this repository's issue tracker in the below format:
 
 **_Todo: Add the link to the 2018 list_**
 
@@ -89,9 +87,7 @@ Just be sure to check that this is NOT already something on our list here:
 
 ```
 
-Please note, that the final decision will rest with the mentors and organization admins to accept the proposed project.
-
-We are interested in seeing projects that will help make learning more fun, interactive and available to all.
+Please note, that the final decision of accepting the proposed project will rest with the organization admins.
 
 ### Contacting us:
 
