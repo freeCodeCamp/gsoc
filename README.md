@@ -6,9 +6,27 @@
 
 If you are a student, then we have some challenging, widely-used projects for you to work on this summer.
 
+### What is Google Summer of Code (GSoC)?
+Google Summer of Code is a global program focused on bringing more student developers into open source software development. 
+
+Students work with an open source organization on a 3-month programming project during their break from school.
+
+To learn more about the program and its eligibility requirements, [visit GSoC’s page here](https://summerofcode.withgoogle.com/how-it-works/).
+
+### freeCodeCamp’s participation in GSoC.
+We will list projects you can participate [on this page](https://forum.freecodecamp.org/t/google-summer-of-code-ideas-list/170155). Students will be able to take part in any of those for the year 2018. It will evolve over the coming days, and will be overseen by [Mrugesh Mohapatra](https://github.com/raisedadead).
+
+**As a student**, this will help you gain experience working on a real world platform that millions of people use each month as they work through our free open source web development curriculum and earn our standardized certifications.
+
+**As a mentor**, you can help students build some substantial projects that will lead to make learning to code a more fun, interactive experience for millions of learners.
+
+> Note: The mentoring organizations [will be announced by February 12, 2018](https://developers.google.com/open-source/gsoc/timeline). We will update this page as and when more information is available.
+>
+> You can still join us [as a contributor](https://contribute.freecodecamp.org/), regardless of the of our participation in GSoC or your eligibility in the program.
+
 ## Getting started
 
-- [Eligibility for GSoC](#eligibility-for-GSoC)
+- [Eligibility for GSoC](#eligibility-for-gsoc)
 - [Timelines](#timelines)
 - [Submitting a proposal](#submitting-a-proposal)
 - [Applying to be a Mentor](#applying-to-be-a-mentor)
