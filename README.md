@@ -28,6 +28,7 @@ We will list projects you can participate [on this page](https://forum.freecodec
 
 - [Eligibility for GSoC](#eligibility-for-gsoc)
 - [Timelines](#timelines)
+- [Project Ideas for 2018](#project-ideas-for-2018)
 - [Submitting a proposal](#submitting-a-proposal)
 - [Applying to be a Mentor](#applying-to-be-a-mentor)
 - [Submitting Project Ideas](#submitting-project-ideas)
@@ -52,6 +53,12 @@ The program is structured to follow a dedicated timeline. So be sure to checkout
 
 <https://developers.google.com/open-source/gsoc/timeline>
 
+### Project Ideas for 2018
+
+Here's the project ideas list for 2018. This list will be updated as the program proceeds, and we recieve more feedback from the community.
+
+<https://forum.freecodecamp.org/t/google-summer-of-code-ideas-list/170155>
+
 ### Submitting a proposal
 
 1. Create a proposal.
@@ -74,7 +81,7 @@ We are looking for mentors with these skills:
 2. Experience in any of these technologies, NodeJS, React, GraphQL.
 3. Prior contribution to freeCodeCamp's platform is a strong plus.
 
-If you are interested, checkout our ideas list and reach us at the resources listed in the [contacting us](contacting-us), with links to your work, and we will get back to you.
+If you are interested, checkout our ideas list and reach us at the resources listed in the [contacting us](#contacting-us), with links to your work, and we will get back to you.
 
 Please note:
 
@@ -83,11 +90,9 @@ Please note:
 
 ### Submitting Project Ideas
 
-We have a limited no. of projects, that we would like students to work on in this year's GSoC. However, we also invite you to submit your own ideas.
+We have repared a [limited no. of projects](https://forum.freecodecamp.org/t/google-summer-of-code-ideas-list/170155), that we would like students to work on in GSoC for 2018. However, we also invite you to submit your own ideas.
 
 Create an issue on the this repository's issue tracker in the below format:
-
-**_Todo: Add the link to the 2018 list_**
 
 ```md
 
