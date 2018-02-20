@@ -1,5 +1,5 @@
 
-> *NOTE* : We were not selected into the program for 2018. This repository will be update once again when we apply next year. You should checkout the participating origanisations [here](https://summerofcode.withgoogle.com/organizations/), and consider applying to them.
+> *NOTE* : We were not selected into the program for 2018. This repository will be updated once again when we apply next year. You should checkout the participating origanisations [here](https://summerofcode.withgoogle.com/organizations/), and consider applying to them.
 >
 > You can also, help us in various ways listed here [as a contributor](https://contribute.freecodecamp.org/) to our community.
 >
