@@ -1,3 +1,10 @@
+
+> *NOTE* : We were not selected into the program for 2018. This repository will be update once again when we apply next year. You should checkout the participating origanisations [here](https://summerofcode.withgoogle.com/organizations/), and consider applying to them.
+>
+> You can also, help us in various ways listed here [as a contributor](https://contribute.freecodecamp.org/) to our community.
+>
+> Happy Contributing!
+
 # Google Summer of Code - 2018.
 
 > Project Ideas, resources and collaboration guide for freeCodeCamp's GSoC projects in 2018.
